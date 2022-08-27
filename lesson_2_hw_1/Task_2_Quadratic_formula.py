@@ -5,5 +5,5 @@ b = Decimal(5)
 c = Decimal(4)
 x = round((- b + (b**2 - 4*a*c) ** Decimal(0.5)) / (2 * a))
 y = round((- b - (b**2 - 4*a*c) ** Decimal(0.5)) / (2 * a))
-print ('X1 = ', x)
-print('X2 = ', y)
+print ('X1 = ', x) # x1 = -1
+print('X2 = ', y) # x2 = -4
