@@ -1,0 +1,15 @@
+Microsoft Windows [Version 10.0.22000.856]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+C:\Users\IvanM>py
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from art import *
+>>> tprint('Ivan', font = 'random')
+ #######  ##  ###   ######  ##  ###
+   ###    ##  ###   ##  ##  ### ###
+   ###    ##  ###   ##  ##  #######
+   ###    ##  ###  #######  ## ####
+   ###    ## ####  ###  ##  ##  ###
+   ###     #####   ###  ##  ##  ###
+ #######    ###    ###  ##  ##  ###
