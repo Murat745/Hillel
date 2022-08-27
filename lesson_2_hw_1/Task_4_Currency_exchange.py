@@ -1,3 +1,4 @@
+# рахуємо за допомогою Decimal, щоб уникнути похибки
 import decimal
 from decimal import Decimal
 uah = input('Введіть суму гривень для обміну: ', )
