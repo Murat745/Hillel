@@ -1,5 +1,5 @@
 """
-Lesson 7, homework 6, task 1 solution
+Lesson 8, homework 6, task 1 solution
 Getting the index (first match) of the element in list.
 """
 
