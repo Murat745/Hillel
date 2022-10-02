@@ -1,5 +1,5 @@
 """
-Lesson 8, homework 6, task 3a solution
+Lesson 8, homework 6, task 3b solution
 Creating a sorted list by first digit of the number.
 """
 
