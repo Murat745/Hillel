@@ -1,5 +1,5 @@
 """
-Lesson 7, homework 6, task 2 solution
+Lesson 8, homework 6, task 2 solution
 Creating a deepcopy of the list.
 """
 
