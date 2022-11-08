@@ -6,7 +6,7 @@ Reading a text file to the list.
 
 def from_file_to_list(file_name):
     list_of_data = []
-    for i in open(str(file_name)):
+    for i in open(file_name):
         list_of_data.append(i)
 
     for i in range(len(list_of_data)):
